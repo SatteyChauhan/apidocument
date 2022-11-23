@@ -1,0 +1,62 @@
+[
+    {
+        "user_id" : 1,
+        "login" : "Satya27",
+        "password" : "Satya1234",
+        "user_name" : "Satya Chauhan",
+        "email" : "Satya1234@gmail.com",
+        "phone_no" : "9876543210",
+        "aadress" : "Bazargate",
+        "postcode" : "400001",
+        "city" : "Mumbai",
+        "country" : "India"
+    },
+    {
+        "user_id" : 2,
+        "login" : "Ishhan3",
+        "password" : "Ishhan1234",
+        "user_name" : "Ishaan Chauhan",
+        "email" : "Ishaan1234@gmail.com",
+        "phone_no" : "9876543211",
+        "aadress" : "Kalbadevi",
+        "postcode" : "400002",
+        "city" : "Mumbai",
+        "country" : "India"
+    },
+    {
+        "user_id" : 3,
+        "login" : "Rivansh2",
+        "password" : "Rivansh1234",
+        "user_name" : "Rivansh Chauhan",
+        "email" : "Rivansh1234@gmail.com",
+        "phone_no" : "9876543212",
+        "aadress" : "Chandigarh",
+        "postcode" : "400003",
+        "city" : "Mumbai",
+        "country" : "India"
+    },
+    {
+        "user_id" : 4,
+        "login" : "Divyansh6",
+        "password" : "Divyansh1234",
+        "user_name" : "Divyansh Sharma",
+        "email" : "Divyansh1234@gmail.com",
+        "phone_no" : "9876543213",
+        "aadress" : "Charni Road",
+        "postcode" : "400004",
+        "city" : "Mumbai",
+        "country" : "India"
+    },
+    {
+        "user_id" : 5,
+        "login" : "Diksha6",
+        "password" : "Diksha1234",
+        "user_name" : "Diksha Sharma",
+        "email" : "Diksha1234@gmail.com",
+        "phone_no" : "9876543214",
+        "aadress" : "Colaba",
+        "postcode" : "400005",
+        "city" : "Mumbai",
+        "country" : "India"
+    }
+]

@@ -1,0 +1,39 @@
+[
+    {
+        "p_id":1,
+        "product_name":"1st Birthday Cake",
+        "product_price":"Rs. 999/-",
+        "product_detail":"Special Cake For Your First Child",
+        "category_id":1
+    },
+    {
+        "p_id":2,
+        "product_name":"5th Anniversary Cake",
+        "product_price":"Rs. 1499/-",
+        "product_detail":"Make it a perfect love celebration as you woo your special one with this creamilicious fresh Pineapple cake adorned with a pretty floral design..",
+        "category_id":2
+    },
+    {
+        "p_id":3,
+        "product_name":"Mother Day Special Cake",
+        "product_price":"Rs. 1299/-",
+        "product_detail":"This Mothers day, surprise her with something delicious that she will love.",
+        "category_id":3
+    },
+    
+    {
+        "p_id":4,
+        "product_name":"Doraemon Creame Cake",
+        "product_price":"Rs. 899/-",
+        "product_detail":"Doraemon has been the most loved animation character for each kid for quite a while now. So think about their reaction when they see their most loved animation character on their birthday cake.",
+        "category_id":4
+    },
+    
+    {
+        "p_id":5,
+        "product_name":"Chocolate Truffle Pastry",
+        "product_price":"Rs. 99/-",
+        "product_detail":"This pastry is all about perfection. Made from the finest quality of chocolate.",
+        "category_id":5
+    }    
+]
